@@ -1,0 +1,11 @@
+2021-09-03 10:21:06:066 debug: API Triggered is /multiBureau
+2021-09-03 10:21:06:066 debug: The request body is {"body":{"SymmetricKeyEncryptedValue":"pS6++iCGUj7W5JkLVjYb0LqgQ11HlOjMZ9npTfqBQxAdOiSQFwOD9SdyGoJRiL+8VtVCFEs0dKEHtrIRJg983dSZzpvQTj9pEHZy1rVmmMfOFzFoA3r6kyqsH5LsS4j2GPcuaGeQ0VkfI0s7pDR+TUU1wOqYKN74kYo1+VR7RnfeSthG7zMrYwTV9rm55vSCrhlRGaRvkjFw6fzH9dxH5veajpYhW/fwdCjePL4vWOAOA+64fj5uDUqF67Keo90HltsPLXslTL5I9hxbqEDa9BXoEJtltbAJ/S9DQk7rvT9bIjE/8JMGPO3n+QqtyxOJO4GWFHCOsi2mAD/2JRqTlg==","RequestEncryptedValue":"LhreTgPtf7qykPHYg76bifrnzuOoo7GkuijEbru6GTGWWLgpvD6+rKsy+CNQeYa/wOYZjNfcUIrNJlsHS8WEqXwlP1udkqN8ApSQK3FAG8pxYwDz9Cq66CQ2oYOINkk9K7ke9QgR2hEMrZfxaBCWScjsByOo4pHbs+B2joGNFEbHqdfOW5Pa9twHvWXcwTlb+M2soxaVmPlhQRZykc8fHVimFIGoJG7uhvOGuIoRSsts7oVkwq86ryJYVo2HcCBG62sZOcb8GL36sqpy9gTL/knxPekjgAP4R8+5+RMNbdynCfaUWYBn4KhsnV1sO0/UnCND/WRtf+pPmyvUVzCbjAkVo5gWiyjzd/aJFzYovGw="}}
+2021-09-03 10:21:06:066 debug: API Input validation is success
+2021-09-03 10:21:06:066 debug: THE URL is "http://172.0.2.35:81/api/v1/service/kgcmodeltry1/score"
+2021-09-03 10:21:06:066 info: API Request processing ended
+2021-09-03 10:21:25:2525 debug: API Triggered is /multiBureau
+2021-09-03 10:21:25:2525 debug: The request body is {"body":{"SymmetricKeyEncryptedValue":"pS6++iCGUj7W5JkLVjYb0LqgQ11HlOjMZ9npTfqBQxAdOiSQFwOD9SdyGoJRiL+8VtVCFEs0dKEHtrIRJg983dSZzpvQTj9pEHZy1rVmmMfOFzFoA3r6kyqsH5LsS4j2GPcuaGeQ0VkfI0s7pDR+TUU1wOqYKN74kYo1+VR7RnfeSthG7zMrYwTV9rm55vSCrhlRGaRvkjFw6fzH9dxH5veajpYhW/fwdCjePL4vWOAOA+64fj5uDUqF67Keo90HltsPLXslTL5I9hxbqEDa9BXoEJtltbAJ/S9DQk7rvT9bIjE/8JMGPO3n+QqtyxOJO4GWFHCOsi2mAD/2JRqTlg==","RequestEncryptedValue":"LhreTgPtf7qykPHYg76bifrnzuOoo7GkuijEbru6GTGWWLgpvD6+rKsy+CNQeYa/wOYZjNfcUIrNJlsHS8WEqXwlP1udkqN8ApSQK3FAG8pxYwDz9Cq66CQ2oYOINkk9K7ke9QgR2hEMrZfxaBCWScjsByOo4pHbs+B2joGNFEbHqdfOW5Pa9twHvWXcwTlb+M2soxaVmPlhQRZykc8fHVimFIGoJG7uhvOGuIoRSsts7oVkwq86ryJYVo2HcCBG62sZOcb8GL36sqpy9gTL/knxPekjgAP4R8+5+RMNbdynCfaUWYBn4KhsnV1sO0/UnCND/WRtf+pPmyvUVzCbjAkVo5gWiyjzd/aJFzYovGw="}}
+2021-09-03 10:21:25:2525 debug: API Input validation is success
+2021-09-03 10:21:25:2525 debug: THE URL is "http://172.0.2.35:81/api/v1/service/kgcmodeltry1/score"
+2021-09-03 10:21:25:2525 info: API Request processing ended
+2021-09-03 10:21:28:2828 error: Some Internal Error Occurred..! Error: connect ETIMEDOUT 172.0.2.35:81

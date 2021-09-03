@@ -1,0 +1,24 @@
+{
+    "dummy_score_2": {
+      "1": "http://172.0.2.35:81/api/v1/service/ds2final1/score"
+    },
+    "dummy_score_3": {
+      "1": "http://172.0.2.35:81/api/v1/service/ds2final2/score"
+    },
+    "dummy_score_final": {
+      "1": "http://172.0.2.35:81/api/v1/service/ds2finaltry1/score"
+    },
+    "testing": {
+      "1": "http://172.0.2.35:81/api/v1/service/sampletestmodel/score"
+    },
+    "testing_2": {
+      "1": "http://172.0.2.35:81/api/v1/service/sampletestmodel1/score"
+    },
+    "testing_3": {
+      "1": "http://172.0.2.35:81/api/v1/service/sampletestmodel2/score"
+    },
+    "kgcmodel": {
+      "1": "http://172.0.2.35:81/api/v1/service/kgcmodeltry1/score",
+      "2":"http://172.0.2.35:81/api/v1/service/sampletestmodel2/score"
+    }
+  }

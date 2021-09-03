@@ -1,0 +1,11 @@
+2021-08-02 14:20:10:1010 info: API Request started processing
+2021-08-02 14:20:10:1010 debug: API Triggered is /multiBureau
+2021-08-02 14:20:10:1010 debug: The request body is {"body":{"version":"1","modelName":"dummy_score_2","modelParams":{"mRefNo":"H101010","ACCOUNT_SEC_UNSEC_BL":10,"TRADE_UTIL_BL":10,"L9M_ENQ_BL_TK_NDQ":10,"ALL_ENQ_BL_TK_NDQ":10,"OTHBK_L9M_LOAN_ENQ_BL_TK_NDQ":10,"NUM_X_24_BL_TK_NDQ":10,"SF_FLAG_BL":10,"WOF_FLAG_BL":10,"R_SANC_ENQ_AMT_BL":10,"HDFC_MAX_VINT_BL_TN_NDQ":20}}}
+2021-08-02 14:20:10:1010 debug: API Input validation is success
+2021-08-02 14:20:10:1010 info: API Request processing ended
+2021-08-02 14:20:31:3131 error: Some Internal Error Occurred..! Error: connect ETIMEDOUT 172.0.2.35:81
+2021-08-02 14:22:20:2020 info: API Request started processing
+2021-08-02 14:22:20:2020 debug: API Triggered is /multiBureau
+2021-08-02 14:22:20:2020 debug: The request body is {"body":{"version":"1","modelName":"dummy_score_2","modelParams":{}}}
+2021-08-02 14:22:20:2020 error: ValidationError: "modelParams" must have at least 1 key
+2021-08-02 14:22:20:2020 info: API Request processing ended
